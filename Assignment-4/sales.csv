@@ -1,0 +1,7 @@
+Order_ID,Product,Category,Quantity,Price,Region
+1,Laptop,Electronics,2,60000,North
+2,Mouse,Accessories,10,800,South
+3,Keyboard,Accessories,5,1500,North
+4,Phone,Electronics,4,30000,West
+5,Laptop,Electronics,1,62000,East
+6,Mouse,Accessories,8,850,West
